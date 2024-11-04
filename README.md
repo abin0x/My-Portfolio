@@ -38,3 +38,26 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-portfolio.git
+2. Navigate to the project directory:
+   ```bash
+   cd your-portfolio
+3. Open the index.html file in your web browser.
+
+## Usage
+
+Feel free to explore the website. You can view my projects, read about my experiences, and contact me through the form. If you'd like to use any of the code for your own projects, please refer to the License section below.
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, but please give appropriate credit.
+
+## Contact
+
+For any inquiries, please reach out to me:
+
+- Email: [your-email@example.com]
+- LinkedIn: [Your LinkedIn Profile URL]
+- GitHub: [Your GitHub Profile URL]
+
+Thank you for visiting my portfolio website!
+
