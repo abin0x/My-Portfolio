@@ -1,6 +1,8 @@
 # Personal Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a [Your Profession/Field, e.g., Web Developer, Designer, etc.]. 
+![Portfolio Logo](path/to/your/logo.png) <!-- Replace with your actual logo path -->
+
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a **Web Developer**.
 
 ## Table of Contents
 
@@ -25,11 +27,11 @@ This portfolio website serves as a platform for potential employers and clients 
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- [Any Frameworks or Libraries Used, e.g., Bootstrap, jQuery]
-- [Additional Tools, e.g., Git, GitHub Pages for deployment]
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white) CSS3
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) JavaScript
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) Bootstrap <!-- Replace with any frameworks you used -->
+- ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white) GitHub Pages <!-- Add any other tools you used -->
 
 ## Installation
 
