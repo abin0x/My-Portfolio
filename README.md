@@ -55,9 +55,10 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For any inquiries, please reach out to me:
 
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile URL]
-- GitHub: [Your GitHub Profile URL]
+- Email: [mahmudulabin@gmail.com](mailto:mahmudulabin@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/abin0x/](https://www.linkedin.com/in/abin0x/)
+- GitHub: [https://github.com/abin0x](https://github.com/abin0x)
 
 Thank you for visiting my portfolio website!
+
 
