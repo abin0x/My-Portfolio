@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Portfolio Logo](https://i.ibb.co/qmrcNGw)
+![Portfolio Logo]([https://i.ibb.co/qmrcNGw](https://i.ibb.co.com/tYJvqf5/e7cc6e94-73c5-4a20-9098-714896954c76.png))
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a **Web Developer**.
 
