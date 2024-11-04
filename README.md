@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Portfolio Logo](path/to/your/logo.png) <!-- Replace with your actual logo path -->
+![Portfolio Logo](https://i.ibb.co/qmrcNGw)
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a **Web Developer**.
 
