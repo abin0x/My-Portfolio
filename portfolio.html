@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <div class="nav-column">
+        <a href="index.html" class="nav-icon home" data-title="Home"><i class="fas fa-home"></i></a>
+        <a href="about.html" class="nav-icon user" data-title="About"><i class="fas fa-user"></i></a>
+        <a href="portfolio.html" class="nav-icon briefcase" data-title="Portfolio"><i class="fas fa-briefcase"></i></a>
+        <a href="blog.html" class="nav-icon chat" data-title="Blog"><i class="fas fa-comments"></i></a>
+        <a href="contact.html" class="nav-icon mail" data-title="Contact"><i class="fas fa-envelope"></i></a>
+        <a href="#" class="nav-icon settings" data-title="Settings"><i class="fas fa-cog"></i></a>
+      </div>
+    <div class="portfolio">
+        <header>
+            <h1>MY <span>PORTFOLIO</span></h1>
+            <div class="background-text">PORTFOLIO</div>
+        </header>
+        
+        <div class="filter">
+            <ul>
+                <li>ALL</li>
+                <li>LOGO</li>
+                <li>VIDEO</li>
+                <li>GRAPHIC DESIGN</li>
+                <li>MOCKUP</li>
+            </ul>
+        </div>
+        <div class="grid">
+            <div class="card" data-title="Origami Boat" data-project="SaaS Project" data-client="Themeforest" data-language="HTML, CSS, ReactJS" data-preview="hstu.netlify.app/" data-image="images/Purple And White UiUx Design Vibrant Youtube Thumbnail.png">
+                <img src="images/Purple And White UiUx Design Vibrant Youtube Thumbnail.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="onlinescl.netlify.app" data-image="images/1.png">
+                <img src="images/1.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="onlinescl.netlify.app" data-image="images/2.png">
+                <img src="images/2.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="onlinescl.netlify.app" data-image="images/Black and Blue Modern Technology Presentation.png">
+                <img src="images/Black and Blue Modern Technology Presentation.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="hstu.netlify.app/" data-image="images/Black Blue Futuristic Modern Artificial Intelligence Project Presentation.png">
+                <img src="images/Black Blue Futuristic Modern Artificial Intelligence Project Presentation.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="hstu.netlify.app/" data-image="images/Black Green White And Blue Modern Data Analytics Course Video.png">
+                <img src="images/Black Green White And Blue Modern Data Analytics Course Video.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="hstu.netlify.app/" data-image="images/Black Minimalist Modern AI Robot Presentation.png">
+                <img src="images/Black Minimalist Modern AI Robot Presentation.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="hstu.netlify.app/" data-image="images/Black Pink Blue Orange Gradient Modern Dark Cool 3D Breakthrough Technologies Engineering Presentation.png">
+                <img src="images/Black Pink Blue Orange Gradient Modern Dark Cool 3D Breakthrough Technologies Engineering Presentation.png" alt="Lucky Cat">
+            </div>
+            <div class="card" data-title="Lucky Cat" data-project="E-commerce Project" data-client="Shopify" data-language="HTML, CSS, VueJS" data-preview="hstu.netlify.app/" data-image="images/Blue White Creative Technologies YouTube Thumbnail.png">
+                <img src="images/Blue White Creative Technologies YouTube Thumbnail.png" alt="Lucky Cat">
+            </div>
+            <!-- Add more cards as necessary -->
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2 id="modal-title">SAAS PROJECT</h2>
+            <p><strong>Project:</strong> <span id="modal-project"></span></p>
+            <p><strong>Client:</strong> <span id="modal-client"></span></p>
+            <p><strong>Language:</strong> <span id="modal-language"></span></p>
+            <p><strong>Preview:</strong> <a href="#" id="modal-preview" target="_blank"></a></p>
+            <img id="modal-image" src="" alt="Project Image">
+        </div>
+    </div>
+
+    <script src="portfolio.js"></script>
+    <script src="./app.js"></script>
+</body>
+</html>
