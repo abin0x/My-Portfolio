@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 <a href="https://ibb.co/qmrcNGw">
-    <a href="https://ibb.co/qmrcNGw"><img src="https://i.ibb.co/qmrcNGw/e7cc6e94-73c5-4a20-9098-714896954c76.png" alt="Portfolio Cover" width="800" height="300" /></a>
+    <a href="https://ibb.co/qmrcNGw"><img src="https://i.ibb.co/qmrcNGw/e7cc6e94-73c5-4a20-9098-714896954c76.png" alt="Portfolio Cover" width="600" height="200" /></a>
 </a>
 
 
